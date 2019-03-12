@@ -8,9 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko
-url:                https://jindl465.github.io/jindl465.github.io
-repository:         jindl465/jindl465.github.io
-baseurl:            
+url:                https://taylantatli.github.io/Moon     
 
 # Jekyll
 permalink:          /:title/
